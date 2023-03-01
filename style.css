@@ -1,0 +1,23 @@
+nav {
+    border: black 2px solid;
+    height: 95vh;
+    width: 20vw;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+    width: 100%;
+}
+
+a {
+    padding: 5px;
+    margin: 5px;
+    background: steelblue;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
